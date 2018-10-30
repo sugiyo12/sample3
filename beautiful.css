@@ -207,17 +207,3 @@ footer pre{
     text-decoration:none;
 }
 
-
-
-@media(max-width:1000px ){
-    body{
-    margin-left:100px;
-    }
-    
-    footer{
-    width:1000px;
-    padding-bottom:100px;
-    }
-    
-}
-
