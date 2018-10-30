@@ -22,7 +22,7 @@ a{
 }
 
 .header:hover{
-    background-image:url("../beautiful/4.jpg");
+    background-image:url("4.jpg");
     background-size: cover;
     color:white;
 }
@@ -55,7 +55,7 @@ a{
 }
 
 .web{
-    background-image: url("../beautiful/web-back.jpg");
+    background-image: url("web-back.jpg");
     height: 50px;
     color:white;
     font-size:20px;
@@ -180,7 +180,7 @@ a{
 
 
 footer{
-    background-image:url("../beautiful/pink.jpg");
+    background-image:url("pink.jpg");
     background-size: cover;
     opacity: 0.7;
     height: 700px;
