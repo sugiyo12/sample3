@@ -1,5 +1,5 @@
 @media(max-width:1000px ){
-    .global-menu,.main-photo,.ranking-style,.stylist.coupon{
+    .global-menu,.main-photo,.ranking-style,.stylist,.coupon{
         margin-left:100px;
     }
    
@@ -7,7 +7,7 @@
       margin:190px 0 40px 0;
     
     footer{
-    width:1500px;
+    width:1000px;
     padding-bottom:100px;
     }
     
@@ -16,7 +16,7 @@
 
 
 @media(max-width:670px ){
-    .global-menu,.main-photo,.ranking-style,.stylist.coupon{
+    .global-menu,.main-photo,.ranking-style,.stylist,.coupon{
         margin-left:100px;
     }
    
