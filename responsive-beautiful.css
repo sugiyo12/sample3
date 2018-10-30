@@ -1,11 +1,8 @@
 @media(max-width:1000px ){
-    body{
-    margin-left:100px;
+    .global-menu,.main-photo,ranking-style,stylist{
+        margin-left:150px;
     }
-    
-    .header{
-    margin-left:none;
-    }
+   
     
     footer{
     width:1000px;
