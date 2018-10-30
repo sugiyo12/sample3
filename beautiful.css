@@ -206,3 +206,18 @@ footer pre{
 .line{
     text-decoration:none;
 }
+
+
+
+@media(max-width:1000px ){
+    body{
+    margin-left:100px;
+    }
+    
+    footer{
+    width:1000px;;
+    padding-bootom:100px;
+    }
+    
+}
+
