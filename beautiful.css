@@ -1,0 +1,208 @@
+body{
+    font-family:"Hiragino Kaku Gothic ProN";
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    width:1170px;
+    margin: 0 auto;
+}
+
+.header{
+    height:200px;
+    background-color: rgba(230,230,230,0.3);
+    color: black;
+    width:100%;
+    position: fixed;
+    top:0;
+    z-index: 10;
+}
+
+.header:hover{
+    background-image:url("../beautiful/4.jpg");
+    background-size: cover;
+    color:white;
+}
+
+.header-left{
+    float:left;
+}
+
+.header-left i{
+    font-size:70px;
+    padding:50px 0 0 70px;
+    letter-spacing:15px;
+    font-family:"Book Antiqua";
+    display: inline-block;
+    opacity: 0.8;
+}
+
+.header-right{
+    float:right;
+    padding:10px 20px 0 0;
+    text-align: right;
+}
+
+.header-right p{
+    letter-spacing: 3px;
+}
+
+.fas{
+    padding-right:7px;
+}
+
+.web{
+    background-image: url("../beautiful/web-back.jpg");
+    height: 50px;
+    color:white;
+    font-size:20px;
+    font-weight:bold;
+    padding:15px 30px 0 30px;
+    text-align: center;
+    display:block;
+    border-radius:10px;
+    border: 2px solid white;
+}
+
+
+/*★グローバルメニュー★*/
+.grobal-menu{
+    height:100px;
+}
+
+.sta{
+    float:left;
+    padding:25px 10px;
+    text-align: center;
+    border-left:1px solid #d3d3d3;
+    border-right:1px solid #d3d3d3;
+    box-sizing: border-box;
+    color:black;
+    display:inline-block;
+    margin: 180px 0 40px 0;
+}
+
+.sta:hover{
+    background-color:rgba(10,10,10,0.1);
+}
+
+.ninki{
+    width:20%;
+}
+
+.list{
+    width:20%;
+}
+
+.ku{
+    width:20%;
+}
+
+.salo{
+    width:20%;
+}
+
+.aku{
+    width:20%;
+}
+
+
+
+
+/*★メイン写真★*/
+#slide{
+    position: relative;
+    top:300px;
+    left:160px;
+    height:700px;
+    margin-top: 30px;
+}
+
+#slide img{
+    position: absolute;
+    left:0;
+    top:0;
+    width:850px;
+    height:600px;
+}
+
+
+
+
+/*★人気ランキング★*/
+
+.ranking-style{
+    margin-top: 300px;
+}
+
+.heading img{
+    width:500px;
+    
+}
+
+.lesson{
+    float:left;
+    width:20%;
+    margin-bottom: 100px;
+}
+
+.smal{
+    width:154px;
+    height:204px;
+  
+}
+
+.text-contents {
+  text-align: left;
+  width: 60%;
+  font-size: 12px;
+  color: #b3aeb5;
+  display: none;
+}
+
+.text-active{
+    display:block;
+}
+
+
+/*★スタイリストページ★*/
+.stylist{
+    margin-top:400px;
+}
+
+
+.coupon{
+    margin-top: 200px;
+}
+
+
+footer{
+    background-image:url("../beautiful/pink.jpg");
+    background-size: cover;
+    opacity: 0.7;
+    height: 700px;
+    margin-top: 100px;
+}
+
+footer i{
+    padding-top:40px;
+    padding-left: 50px;
+    font-size: 50px;
+    display: inline-block;
+    font-family: "Segoe Script Regular";
+}
+
+footer pre{
+    padding-top:20px;
+    padding-left: 100px;
+    font-size:20px;
+    text-decoration: underline;
+    opacity: 0.7;
+}
+
+.line{
+    text-decoration:none;
+}
