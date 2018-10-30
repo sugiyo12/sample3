@@ -4,11 +4,7 @@
     }
    
     .sta{
-      margin:190px 0 40px 0;
-    
-    footer{
-    width:1000px;
-    padding-bottom:100px;
+      margin:200px 0 40px 0;
     }
     
 }
@@ -19,12 +15,9 @@
     .global-menu,.main-photo,.ranking-style,.stylist,.coupon{
         margin-left:100px;
     }
-   
     
-    
-    footer{
-    width:1000px;
-    padding-bottom:100px;
+     .sta{
+      margin:200px 0 40px 0;
     }
     
 }
