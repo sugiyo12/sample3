@@ -12,11 +12,15 @@
 
 
 
-
-
-
 @media(max-width:670px){
+    body{
+    margin-left:100px;
+    }
     
     
+    footer{
+    width:100%;
+    padding-bootom:100px;
+    }
     
 }
