@@ -14,9 +14,10 @@
 
 
 @media(max-width:670px ){
-    body{
-    margin-left:100px;
+    .global-menu,.main-photo,.ranking-style,.stylist.coupon{
+        margin-left:100px;
     }
+   
     
     
     footer{
