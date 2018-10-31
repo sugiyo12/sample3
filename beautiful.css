@@ -86,7 +86,8 @@ a{
 }
 
 .sta:hover{
-    background-color:rgba(10,10,10,0.1);
+    background-image:url("furemu3.jpg");
+    background-size:cover;
 }
 
 .ninki{
